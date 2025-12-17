@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to our travel diary!!!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is going to be a fun ride. Hello from vanessa and alex 
